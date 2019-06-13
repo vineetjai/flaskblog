@@ -1,7 +1,7 @@
 # flaskblog
 
 
-Add config.json in which there has to `SECRET_KEY` to your app, `SQLALCHEMY_DATABASE_URI`, `MAIL_USERNAME` and `MAIL_PASSWORD`
+1.Add config.json in which there has to `SECRET_KEY` to your app, `SQLALCHEMY_DATABASE_URI`, `MAIL_USERNAME` and `MAIL_PASSWORD`
 it has to be like:-
 
 ```
@@ -13,4 +13,4 @@ it has to be like:-
 }
 ```
 
-change path in config.py inside flaskblog directory to your path in open command
+2. Change path in config.py inside flaskblog directory to your path in open command
