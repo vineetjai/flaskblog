@@ -1,7 +1,7 @@
 # flaskblog
 
 
-1.Add config.json in which there has to `SECRET_KEY` to your app, `SQLALCHEMY_DATABASE_URI`, `MAIL_USERNAME` and `MAIL_PASSWORD`
+1. Add config.json in which there has to `SECRET_KEY` to your app, `SQLALCHEMY_DATABASE_URI`, `MAIL_USERNAME` and `MAIL_PASSWORD`
 it has to be like:-
 
 ```
